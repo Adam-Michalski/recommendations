@@ -1,0 +1,76 @@
+{
+  "recommendations": [
+    {
+      "id": "1and3011",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNTE2NTkzMV5BMl5BanBnXkFtZTgwMDAzOTUyMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+      "title": "Inferno",
+      "summary": "Lorem ipsum….",
+      "rating": 5.3
+    },
+    {
+      "id": "2ggggbc",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SY1000_CR0,0,677,1000_AL_.jpg",
+      "title": "Star Wars: Episode VII - The Force Awakens",
+      "summary": "Lorem ipsum….",
+      "rating": 8.2
+    },
+    {
+      "id": "2888abc",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/91a7FxC6ZoL._SL1500_.jpg",
+      "title": "John Wick",
+      "summary": "Lorem ipsum….",
+      "rating": 9.2
+    },
+    {
+      "id": "23099bc",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51kbWQ1BmfL.jpg",
+      "title": "John Wick II",
+      "summary": "Lorem ipsum….",
+      "rating": 6.9
+    },
+    {
+      "id": "2302eec",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/81AQG8qncDL._SL1500_.jpg",
+      "title": "Logan",
+      "summary": "Lorem ipsum….",
+      "rating": 7.2
+    },
+    {
+      "id": "1nd3041",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNTE2NTkzMV5BMl5BanBnXkFtZTgwMDAzOTUyMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+      "title": "Inferno",
+      "summary": "Lorem ipsum….",
+      "rating": 5.3
+    },
+    {
+      "id": "230154c",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SY1000_CR0,0,677,1000_AL_.jpg",
+      "title": "Star Wars: Episode VII - The Force Awakens",
+      "summary": "Lorem ipsum….",
+      "rating": 8.2
+    },
+    {
+      "id": "264451a",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/91a7FxC6ZoL._SL1500_.jpg",
+      "title": "John Wick",
+      "summary": "Lorem ipsum….",
+      "rating": 9.2
+    },
+    {
+      "id": "235656g",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51kbWQ1BmfL.jpg",
+      "title": "John Wick II",
+      "summary": "Lorem ipsum….",
+      "rating": 6.9
+    },
+    {
+      "id": "235456c",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/81AQG8qncDL._SL1500_.jpg",
+      "title": "Logan",
+      "summary": "Lorem ipsum….",
+      "rating": 7.2
+    }
+  ],
+  "accepted": [],
+  "rejected": []
+}

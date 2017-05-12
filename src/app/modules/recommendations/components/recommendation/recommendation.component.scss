@@ -1,0 +1,25 @@
+img {
+    max-width: 200px;
+    max-height: 300px;
+}
+
+button{
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 1px;
+    border-style: solid;
+    border-color: lightgray;
+}
+
+.accept-button {
+    background-color:green;
+}
+
+.reject-button {
+    background-color:red;
+}
